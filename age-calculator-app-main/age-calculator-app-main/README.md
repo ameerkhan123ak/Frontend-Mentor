@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a decent understanding of HTML, CSS and JavaScript.**
 
--Live URL: [Age Calculator] (https://ameerkhan123ak.github.io/Frontend-Mentor/age-calculator-app-main/age-calculator-app-main/)
+- live URL: [Age calculator](https://ameerkhan123ak.github.io/Frontend-Mentor/age-calculator-app-main/age-calculator-app-main/)
 
 ## The challenge
 

@@ -70,4 +70,5 @@ If you have any questions, feedback, or suggestions, feel free to contact me:
 - Email: ameerkhan.ee20@bitsathy.ac.in
 - instagram: @khaan.ax
 - GitHub: [Ameer khan](github.com/ameerkhan123ak)
+- FrontEnd Mentor: [Ameer Khan](https://www.frontendmentor.io/profile/ameerkhan123ak)
 

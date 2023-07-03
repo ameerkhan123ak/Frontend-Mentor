@@ -1,6 +1,6 @@
 # Frontend-Mentor
 # Frontend Mentor Challenges
-check out: [LIVE URL](https://64a2ce9213d46c0e62548499--gleeful-cajeta-0a7c53.netlify.app);
+                                                      check out:   [LIVE URL](https://64a2ce9213d46c0e62548499--gleeful-cajeta-0a7c53.netlify.app)
 ![FrontEnd Mentor](https://thecodebytes.com/wp-content/webpc-passthru.php?src=http://thecodebytes.com/wp-content/uploads/2023/02/frontend-mentor-review.png&nocache=1)
 This repository contains my solutions to various Frontend Mentor challenges. Frontend Mentor is a platform that provides real-world frontend coding challenges for developers to practice their skills.
 

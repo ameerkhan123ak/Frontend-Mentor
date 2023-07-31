@@ -1,3 +1,5 @@
+live preview: [Click Here](https://64c75c7f03fc337996a9b076--keen-meerkat-460566.netlify.app)
+
 # Frontend Mentor - Interactive rating component
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)

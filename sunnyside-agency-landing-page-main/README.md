@@ -1,5 +1,7 @@
 # Frontend Mentor - Sunnyside agency landing page
 
+preview link: [click here](https://sunnysideagencyameerkhan.netlify.app)
+
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋

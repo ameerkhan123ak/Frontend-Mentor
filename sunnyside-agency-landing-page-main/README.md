@@ -4,6 +4,8 @@ preview link: [click here](https://sunnysideagencyameerkhan.netlify.app)
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
+https://pagespeed.web.dev/analysis/https-sunnysideagencyameerkhan-netlify-app/k87dmkg4tg?form_factor=desktop
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

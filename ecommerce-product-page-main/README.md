@@ -1,5 +1,7 @@
 # Frontend Mentor - E-commerce product page
 
+live preview: [click here!](https://frontendmentorecommerceproductpage2.netlify.app)
+
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
